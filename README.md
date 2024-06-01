@@ -13,7 +13,11 @@ This guide will help you set up the Quiz Application on your local machine. The 
 ## FRONTEND SETUP
 ___________________
 
-### 1. Download Zip Folder
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Sudhanshu777871/react_native_quiz.git
+cd react_native_quiz/frontend
 
 ### 2. Install Dependencies
 npm install
